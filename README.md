@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a security researcher and developer.
+I'm a security researcher and engineer.
 I'm interested in 'Endpoint security', 'AI for malicious traffic classification'.
 
 The code for patent-pending or unpublished research are contained in the private repository
