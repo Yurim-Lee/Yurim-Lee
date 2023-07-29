@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a security researcher and engineer.
-I'm interested in 'Endpoint security', 'AI for malicious traffic classification'.
+I'm a AI security researcher and Data scientist.
+I'm interested in 'AI for malicious traffic classification', 'Machine learning feature engineering'.
 
 The code for patent-pending or unpublished research are contained in the private repository
